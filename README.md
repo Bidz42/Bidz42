@@ -1,5 +1,10 @@
-<h1 align="center">Hello 👋, I'm Muhammed</h1>
-<h3 align="center">A passionate software developer with a hunger and passion for learning.</h3>
+<h1 align="left">Hello 👋, I'm Muhammed</h1>
+<h3 align="left">A passionate software developer with a hunger and passion for learning.</h3>
+
+<li align="left">I'm currently looking to begin my career in software development 🚀</li>
+<li align="left">I have been learning MERN stack aswell as Javascript, HTML and CSS at Ironhack 🛠️</li>
+<li align="left">I will expand my knowledge by learning more ASP.NET, MVC, Xamarin, Azure, T-SQL and SQL servers once i'm done at Ironhack 🎨</li>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
